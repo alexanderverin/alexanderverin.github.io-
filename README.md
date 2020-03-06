@@ -1,2 +1,2 @@
-# alexanderverin.github.io-
+# alexanderverin.github.io
 Мой первый опубликованный сайт
